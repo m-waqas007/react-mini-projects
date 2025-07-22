@@ -4,6 +4,11 @@ A clean and minimal Login / Sign Up interface built using **React**. This UI com
 
 ---
 
+## 🧠 Idea Behind It
+A basic but functional component to get started with React UI projects and learn form structure, conditional rendering, and CSS styling.
+
+---
+
 ## 📸 Preview
 
 ![Preview Screenshot](./src/assets/Login.png)
